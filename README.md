@@ -14,3 +14,6 @@ Python · Flask · RAG (BGE-M3/LangChain) · LLM 应用开发 · 前端三件套
 1. 克隆仓库并安装依赖：`pip install -r requirements.txt`
 2. 配置 `.env` 环境变量（LLM API Key 等）。
 3. 运行 `python app.py` 启动本地服务即可体验。
+
+<img width="2560" height="1368" alt="image" src="https://github.com/user-attachments/assets/08ade740-81dc-41b4-8715-bf95b57dbf78" />
+
