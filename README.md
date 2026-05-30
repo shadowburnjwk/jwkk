@@ -15,5 +15,7 @@ Python · Flask · RAG (BGE-M3/LangChain) · LLM 应用开发 · 前端三件套
 2. 配置 `.env` 环境变量（LLM API Key 等）。
 3. 运行 `python app.py` 启动本地服务即可体验。
 
-<img width="2560" height="1368" alt="image" src="https://github.com/user-attachments/assets/08ade740-81dc-41b4-8715-bf95b57dbf78" />
+
+<img width="2543" height="1248" alt="image" src="https://github.com/user-attachments/assets/9919b4e8-cff4-48aa-aad0-0521b659bc13" />
+
 
